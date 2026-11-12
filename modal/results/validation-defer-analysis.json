@@ -1,0 +1,447 @@
+{
+  "report": "validation-defer-sft-d1-2b-defer-full-train-tracks-decisions-20261111T194102Z-20261111T210400Z.json",
+  "puzzle_count": 46,
+  "solved": 0,
+  "cells": 2472,
+  "correct_cells": 1540,
+  "decisions": 4231,
+  "deferrals": 1852,
+  "unresolved_cells": 93,
+  "puzzles_with_unresolved_cells": 10,
+  "median_first_wrong_decision": 12.5,
+  "total_puzzle_seconds": 209.98,
+  "counters": {
+    "true_track_cells": 1067,
+    "placements": 2379,
+    "correct_placements": 1540,
+    "wrong_placements": 839,
+    "predicted_track_cells": 996,
+    "correct_track_cells": 399,
+    "correct_empty_cells": 1141,
+    "forced_target_decisions": 1459,
+    "forced_target_placements": 1229,
+    "wrong_forced_target_placements": 338,
+    "deferrals": 1852,
+    "defer_with_forced_target": 230,
+    "defer_without_nearby_forced_cell": 0,
+    "defer_matching_teacher_policy": 1410,
+    "inconsistent_rule_states": 461,
+    "repeated_defer_cells": 473
+  },
+  "puzzles": [
+    {
+      "puzzle_id": "01012026-small",
+      "cells": 61,
+      "correct_cells": 42,
+      "deferrals": 57,
+      "unresolved_cells": 0,
+      "first_wrong_decision": 25,
+      "seconds": 11.059
+    },
+    {
+      "puzzle_id": "04012026-small",
+      "cells": 45,
+      "correct_cells": 20,
+      "deferrals": 35,
+      "unresolved_cells": 0,
+      "first_wrong_decision": 6,
+      "seconds": 3.774
+    },
+    {
+      "puzzle_id": "06012026-small",
+      "cells": 58,
+      "correct_cells": 27,
+      "deferrals": 46,
+      "unresolved_cells": 0,
+      "first_wrong_decision": 20,
+      "seconds": 4.915
+    },
+    {
+      "puzzle_id": "08012026-small",
+      "cells": 52,
+      "correct_cells": 36,
+      "deferrals": 49,
+      "unresolved_cells": 0,
+      "first_wrong_decision": 26,
+      "seconds": 4.681
+    },
+    {
+      "puzzle_id": "13012026-small",
+      "cells": 59,
+      "correct_cells": 31,
+      "deferrals": 71,
+      "unresolved_cells": 12,
+      "first_wrong_decision": 8,
+      "seconds": 6.17
+    },
+    {
+      "puzzle_id": "19012026-small",
+      "cells": 33,
+      "correct_cells": 30,
+      "deferrals": 17,
+      "unresolved_cells": 0,
+      "first_wrong_decision": 20,
+      "seconds": 1.987
+    },
+    {
+      "puzzle_id": "04022026-small",
+      "cells": 44,
+      "correct_cells": 23,
+      "deferrals": 36,
+      "unresolved_cells": 0,
+      "first_wrong_decision": 19,
+      "seconds": 3.623
+    },
+    {
+      "puzzle_id": "13022026-small",
+      "cells": 46,
+      "correct_cells": 26,
+      "deferrals": 43,
+      "unresolved_cells": 0,
+      "first_wrong_decision": 9,
+      "seconds": 4.089
+    },
+    {
+      "puzzle_id": "19022026-small",
+      "cells": 39,
+      "correct_cells": 29,
+      "deferrals": 47,
+      "unresolved_cells": 8,
+      "first_wrong_decision": 22,
+      "seconds": 3.377
+    },
+    {
+      "puzzle_id": "20022026-small",
+      "cells": 76,
+      "correct_cells": 46,
+      "deferrals": 20,
+      "unresolved_cells": 0,
+      "first_wrong_decision": 10,
+      "seconds": 4.984
+    },
+    {
+      "puzzle_id": "25022026-small",
+      "cells": 51,
+      "correct_cells": 31,
+      "deferrals": 30,
+      "unresolved_cells": 0,
+      "first_wrong_decision": 22,
+      "seconds": 3.751
+    },
+    {
+      "puzzle_id": "05032026-small",
+      "cells": 40,
+      "correct_cells": 26,
+      "deferrals": 30,
+      "unresolved_cells": 0,
+      "first_wrong_decision": 5,
+      "seconds": 3.005
+    },
+    {
+      "puzzle_id": "12032026-small",
+      "cells": 67,
+      "correct_cells": 49,
+      "deferrals": 23,
+      "unresolved_cells": 0,
+      "first_wrong_decision": 30,
+      "seconds": 4.481
+    },
+    {
+      "puzzle_id": "15032026-small",
+      "cells": 67,
+      "correct_cells": 38,
+      "deferrals": 75,
+      "unresolved_cells": 8,
+      "first_wrong_decision": 14,
+      "seconds": 6.887
+    },
+    {
+      "puzzle_id": "19032026-small",
+      "cells": 44,
+      "correct_cells": 33,
+      "deferrals": 20,
+      "unresolved_cells": 0,
+      "first_wrong_decision": 14,
+      "seconds": 2.751
+    },
+    {
+      "puzzle_id": "22032026-small",
+      "cells": 45,
+      "correct_cells": 37,
+      "deferrals": 21,
+      "unresolved_cells": 0,
+      "first_wrong_decision": 1,
+      "seconds": 2.935
+    },
+    {
+      "puzzle_id": "24032026-small",
+      "cells": 45,
+      "correct_cells": 30,
+      "deferrals": 4,
+      "unresolved_cells": 0,
+      "first_wrong_decision": 3,
+      "seconds": 2.086
+    },
+    {
+      "puzzle_id": "09042026-small",
+      "cells": 75,
+      "correct_cells": 39,
+      "deferrals": 73,
+      "unresolved_cells": 0,
+      "first_wrong_decision": 2,
+      "seconds": 8.2
+    },
+    {
+      "puzzle_id": "23042026-small",
+      "cells": 60,
+      "correct_cells": 49,
+      "deferrals": 38,
+      "unresolved_cells": 0,
+      "first_wrong_decision": 24,
+      "seconds": 4.907
+    },
+    {
+      "puzzle_id": "26042026-small",
+      "cells": 60,
+      "correct_cells": 41,
+      "deferrals": 67,
+      "unresolved_cells": 7,
+      "first_wrong_decision": 13,
+      "seconds": 6.326
+    },
+    {
+      "puzzle_id": "29042026-small",
+      "cells": 51,
+      "correct_cells": 32,
+      "deferrals": 62,
+      "unresolved_cells": 11,
+      "first_wrong_decision": 51,
+      "seconds": 4.751
+    },
+    {
+      "puzzle_id": "30042026-small",
+      "cells": 76,
+      "correct_cells": 44,
+      "deferrals": 55,
+      "unresolved_cells": 0,
+      "first_wrong_decision": 10,
+      "seconds": 7.1
+    },
+    {
+      "puzzle_id": "08052026-small",
+      "cells": 66,
+      "correct_cells": 33,
+      "deferrals": 33,
+      "unresolved_cells": 0,
+      "first_wrong_decision": 7,
+      "seconds": 5.143
+    },
+    {
+      "puzzle_id": "20052026-small",
+      "cells": 75,
+      "correct_cells": 44,
+      "deferrals": 40,
+      "unresolved_cells": 0,
+      "first_wrong_decision": 21,
+      "seconds": 6.101
+    },
+    {
+      "puzzle_id": "31052026-small",
+      "cells": 52,
+      "correct_cells": 29,
+      "deferrals": 23,
+      "unresolved_cells": 0,
+      "first_wrong_decision": 8,
+      "seconds": 3.633
+    },
+    {
+      "puzzle_id": "01062026-small",
+      "cells": 59,
+      "correct_cells": 35,
+      "deferrals": 52,
+      "unresolved_cells": 0,
+      "first_wrong_decision": 8,
+      "seconds": 5.671
+    },
+    {
+      "puzzle_id": "09062026-small",
+      "cells": 46,
+      "correct_cells": 28,
+      "deferrals": 54,
+      "unresolved_cells": 8,
+      "first_wrong_decision": 10,
+      "seconds": 4.35
+    },
+    {
+      "puzzle_id": "12062026-small",
+      "cells": 53,
+      "correct_cells": 37,
+      "deferrals": 32,
+      "unresolved_cells": 0,
+      "first_wrong_decision": 12,
+      "seconds": 4.105
+    },
+    {
+      "puzzle_id": "26062026-small",
+      "cells": 45,
+      "correct_cells": 29,
+      "deferrals": 29,
+      "unresolved_cells": 0,
+      "first_wrong_decision": 4,
+      "seconds": 3.343
+    },
+    {
+      "puzzle_id": "27062026-small",
+      "cells": 50,
+      "correct_cells": 39,
+      "deferrals": 43,
+      "unresolved_cells": 0,
+      "first_wrong_decision": 16,
+      "seconds": 4.381
+    },
+    {
+      "puzzle_id": "01072026-small",
+      "cells": 39,
+      "correct_cells": 20,
+      "deferrals": 46,
+      "unresolved_cells": 7,
+      "first_wrong_decision": 6,
+      "seconds": 3.303
+    },
+    {
+      "puzzle_id": "09072026-small",
+      "cells": 67,
+      "correct_cells": 45,
+      "deferrals": 45,
+      "unresolved_cells": 0,
+      "first_wrong_decision": 1,
+      "seconds": 5.816
+    },
+    {
+      "puzzle_id": "12072026-small",
+      "cells": 45,
+      "correct_cells": 28,
+      "deferrals": 23,
+      "unresolved_cells": 0,
+      "first_wrong_decision": 9,
+      "seconds": 3.029
+    },
+    {
+      "puzzle_id": "14072026-small",
+      "cells": 38,
+      "correct_cells": 18,
+      "deferrals": 48,
+      "unresolved_cells": 10,
+      "first_wrong_decision": 22,
+      "seconds": 3.227
+    },
+    {
+      "puzzle_id": "22072026-small",
+      "cells": 46,
+      "correct_cells": 31,
+      "deferrals": 22,
+      "unresolved_cells": 0,
+      "first_wrong_decision": 13,
+      "seconds": 3.092
+    },
+    {
+      "puzzle_id": "24072026-small",
+      "cells": 58,
+      "correct_cells": 44,
+      "deferrals": 51,
+      "unresolved_cells": 0,
+      "first_wrong_decision": 19,
+      "seconds": 5.131
+    },
+    {
+      "puzzle_id": "01082026-small",
+      "cells": 46,
+      "correct_cells": 22,
+      "deferrals": 45,
+      "unresolved_cells": 0,
+      "first_wrong_decision": 14,
+      "seconds": 4.254
+    },
+    {
+      "puzzle_id": "10082026-small",
+      "cells": 53,
+      "correct_cells": 43,
+      "deferrals": 33,
+      "unresolved_cells": 0,
+      "first_wrong_decision": 32,
+      "seconds": 4.224
+    },
+    {
+      "puzzle_id": "13082026-small",
+      "cells": 51,
+      "correct_cells": 28,
+      "deferrals": 60,
+      "unresolved_cells": 9,
+      "first_wrong_decision": 8,
+      "seconds": 4.89
+    },
+    {
+      "puzzle_id": "14082026-small",
+      "cells": 73,
+      "correct_cells": 32,
+      "deferrals": 86,
+      "unresolved_cells": 13,
+      "first_wrong_decision": 0,
+      "seconds": 7.95
+    },
+    {
+      "puzzle_id": "17082026-small",
+      "cells": 38,
+      "correct_cells": 33,
+      "deferrals": 17,
+      "unresolved_cells": 0,
+      "first_wrong_decision": 21,
+      "seconds": 2.34
+    },
+    {
+      "puzzle_id": "10092026-small",
+      "cells": 59,
+      "correct_cells": 35,
+      "deferrals": 32,
+      "unresolved_cells": 0,
+      "first_wrong_decision": 13,
+      "seconds": 4.627
+    },
+    {
+      "puzzle_id": "28092026-small",
+      "cells": 58,
+      "correct_cells": 33,
+      "deferrals": 49,
+      "unresolved_cells": 0,
+      "first_wrong_decision": 6,
+      "seconds": 4.986
+    },
+    {
+      "puzzle_id": "02102026-small",
+      "cells": 39,
+      "correct_cells": 25,
+      "deferrals": 32,
+      "unresolved_cells": 0,
+      "first_wrong_decision": 20,
+      "seconds": 2.993
+    },
+    {
+      "puzzle_id": "18102026-small",
+      "cells": 44,
+      "correct_cells": 28,
+      "deferrals": 30,
+      "unresolved_cells": 0,
+      "first_wrong_decision": 2,
+      "seconds": 3.307
+    },
+    {
+      "puzzle_id": "28102026-small",
+      "cells": 78,
+      "correct_cells": 42,
+      "deferrals": 8,
+      "unresolved_cells": 0,
+      "first_wrong_decision": 11,
+      "seconds": 4.25
+    }
+  ]
+}

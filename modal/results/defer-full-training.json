@@ -1,0 +1,23 @@
+{
+  "run_id": "d1-2b-defer-full-train-tracks-decisions-20261111T194102Z",
+  "mode": "full",
+  "visual_variant": "defer",
+  "label_source": "visible-rule teacher trajectory",
+  "decision_budget_per_cell": 2,
+  "dataset": "zuhairsan/train-tracks-decisions",
+  "dataset_revision": "bfddb2300d31281c305c13b72432c081f33b72c6",
+  "model": "LiquidAI/d1-2B",
+  "model_revision": "97c57047d5852d77e02dfac211f8768aff77a8b2",
+  "validation_split": "validation",
+  "optimizer_steps": 1108,
+  "trainable_parameters": 16468736,
+  "train_runtime_seconds": 3616.2887,
+  "peak_gpu_memory_gib": 6.020742416381836,
+  "train_rows": 11187,
+  "validation_rows": 2472,
+  "train_decisions": 17728,
+  "validation_decisions": 3824,
+  "validation_loss_before": 2.363778829574585,
+  "validation_loss_after": 0.042200297117233276,
+  "output_dir": "/mnt/train-tracks-d1-training/runs/d1-2b-defer-full-train-tracks-decisions-20261111T194102Z"
+}
